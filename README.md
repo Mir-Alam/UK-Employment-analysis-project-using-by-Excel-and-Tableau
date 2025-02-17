@@ -49,15 +49,23 @@ Here are a few screenshots of the Tableau visualizations created as part of this
 
 ### Employment by Industries
 This chart visualizes the employment trends in different industries over the years.
-![Employment by Industries](images/industry_employment_trends.png)
+<img width="1561" alt="Industry" src="https://github.com/user-attachments/assets/16b0f46c-68b8-414c-88b9-08741856da08" />
+
 
 ### Employment by Cities
 This map visualizes the distribution of employment across different cities in the UK.
-![Employment by Cities](images/city_employment_map.png)
+<img width="1518" alt="city" src="https://github.com/user-attachments/assets/bd580bbb-eb91-486e-8cc5-62466ee461bc" />
+
 
 ### Employment by Sub-industries
 This bar chart shows the changes in employment across various sub-industries over time.
-![Employment by Sub-industries](images/sub_industry_employment.png)
+<img width="1703" alt="sub-industry" src="https://github.com/user-attachments/assets/d77d18dc-66a4-4af0-9800-062fe2984855" />
+
+
+### My Dashboard
+<img width="1716" alt="dashboard" src="https://github.com/user-attachments/assets/e3d90184-0486-47e4-a2a8-fac4a858e183" />
+
+
 
 ## How to Use
 
